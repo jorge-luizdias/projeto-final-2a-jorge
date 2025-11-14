@@ -5,7 +5,7 @@ export default function Page() {
     <View style={styles.container}>
       <View style={styles.main}>
         <Text style={styles.title}>Olá Mundo</Text>
-        <Text style={styles.subtitle}>Este é o primeiro aplicativo com Expo Router</Text>
+        <Text style={styles.subtitle}>Este é o primeiro aplicativo com Expo Route</Text>
       </View>
     </View>
   );
