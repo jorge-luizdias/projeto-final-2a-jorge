@@ -4,8 +4,8 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Página Inicial</Text>
-        <Text style={styles.subtitle}>Pré-requisito para a disciplina de DDM</Text>
+        <Text style={styles.title}>Olá Mundo</Text>
+        <Text style={styles.subtitle}>Este é o primeiro aplicativo com Expo Router</Text>
       </View>
     </View>
   );

@@ -4,8 +4,8 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Página Inicial</Text>
-        <Text style={styles.subtitle}>Pré-requisito para a disciplina de DDM</Text>
+        <Text style={styles.title}>Tema Livre</Text>
+        <Text style={styles.subtitle}>Tema Livre a ser trabalhado</Text>
       </View>
     </View>
   );
